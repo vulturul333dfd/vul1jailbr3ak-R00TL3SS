@@ -1,9 +1,9 @@
-The First "UNTETHERED JAILBREAK"
-
-------------------------------------------------------------------
 DISCLAIMER: 
 I DID NOT MAKE THE SOFTWARE USED FOR THIS METHOD OF JAILBREAKING
 THIS IS ONLY A METHOD NOT A PROGRAM
+
+------------------------------------------------------------------
+The First "UNTETHERED JAILBREAK"
 ------------------------------------------------------------------
 
 Steps:
